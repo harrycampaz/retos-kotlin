@@ -46,7 +46,7 @@ fun maxTickets(tickets: Array<Int>): Int {
 
 }
 
-class Primero {
+
 
     fun main(args: Array<String>) {
 //    val ticketsCount = readLine()!!.trim().toInt()
@@ -75,4 +75,3 @@ class Primero {
 
     }
 
-}
